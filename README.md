@@ -20,13 +20,7 @@ O projeto "The Dev News" é uma página de blog com foco em tecnologia, desenvol
 - **Abordagem Mobile First:** O desenvolvimento foi iniciado a partir da versão mobile, garantindo a qualidade da experiência em telas menores.
 - **Componentes:** A página inclui seções como post em destaque, posts recentes, posts populares e categorias.
 - **Estilização Moderna:** Utilização de Flexbox e Grid Layout para a criação de um layout robusto e flexível.
-
-## 🖥️ Aplicação
-Abaixo você pode ver uma demonstração do projeto.
-
-*(Dica: Grave um GIF da tela do seu projeto em diferentes resoluções e adicione aqui para um efeito visual incrível!)*
-
-![Gif da Aplicação](https://i.imgur.com/your-gif-url.gif)
+  
 
 ## 🛠️ Ferramentas Utilizadas
 As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
