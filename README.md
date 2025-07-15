@@ -1,6 +1,6 @@
 Blog Responsivo - The Dev News
 
-https://img.shields.io/badge/Status-Concluído-brightgreen">
+<https://img.shields.io/badge/Status-Concluído-brightgreen">
 
 
 Descrição   |   
